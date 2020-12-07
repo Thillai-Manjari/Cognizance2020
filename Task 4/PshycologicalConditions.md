@@ -44,9 +44,9 @@ These are only a few conditions and symptoms. All these are curable, you can com
 Remember a little help would do them a world of good. 
 
 So how to start the treatment?
-* [x]Note down all your symptoms
-* []Check the intensity of the emotions in each case
-* []Try controlling and keeping yourself under control when you get the ovewhelming feeling without tablets
-* []Follow this for some period of time to check results
-* []If the symptoms are increasing and getting serious get help from doctors 
+* [x] Note down all your symptoms
+* [ ] Check the intensity of the emotions in each case
+* [ ] Try controlling and keeping yourself under control when you get the ovewhelming feeling without tablets
+* [ ] Follow this for some period of time to check results
+* [ ] If the symptoms are increasing and getting serious get help from doctors 
 
