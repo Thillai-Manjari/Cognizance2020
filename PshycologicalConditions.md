@@ -1,14 +1,13 @@
-<! -- Headings -->
-#Introduction 
+**Introduction**
+
 Every individual is unique in one way or the other. I believe every individual has heard this at least once.  So, how is this related to this topic. Guessing by the topic, most of you would have thought I am going to discuss about some serious mental disorders like *bipolar disorder, dementia, schizophrenia or autism*. 
 Most of us think we are perfect in that aspect and we straight. But you are not, we are not. Please forgive me if this seems harsh on you, but someway or the other you need to know the truth. We call it **UNDETECTED COMMON MENTAL DISORDERS**. Don’t get all worked up reading just these lines. 
 I am here to discuss some of the small things we have kept ignoring for years and help you identify them. To solve a problem, the only way is to figure out what it is first, because finding a solution to a problem is only a small part. 
 If you are having any of these below don’t get angry or upset, these are not diseases but conditions which can be turned over. We could never fully recover from some of these, because it is a part of us. But sure, we can try to keep it under control. And I promise you there are a million ways to do that, not just by spending big numbers on psychiatrists.
 
-<! -- Image -->
-![image 1](C:\Users\Thillai Manjari\Desktop)
+![image 1.jpg](C:\Users\Thillai Manjari\Desktop)
 
-##Table of Conditions, definitions and symptoms                                                                                                                                                                                                          |               
+**Table of Conditions, definitions and symptoms**                                                                                                                                                                                                                    
 |Condition        | Definition and symptoms                                                                                                                                                                                                                |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Anxiety Disorder |Characterised by the feelings of worry, anxiety or fear that are strong enough to interfere with one's daily activity. 					                                                                                             |
@@ -41,14 +40,14 @@ If you are having any of these below don’t get angry or upset, these are not d
 |                 |Insomnia is inability to fall asleep or to remain asleep, sleep apnea is pauses in breathing during sleep, narcolepsy - suddenly feel extremely tired and fall asleep without warning.											     |
 |                 |Symptoms include lack of concentration, weight gain, anxiety, daytime fatigues , etc                                                                                                                                                  |
 |<! -- Image -->             ![image 7](C:\Users\Thillai Manjari\Desktop)					                                                                                                                                                             |		
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 These are only a few conditions and symptoms. All these are curable, you can come out of these. They may be serious but with a little will power and help you can get over it. If you or anyone close to you has these conditions, don’t despise them for that. 
 Remember a little help would do them a world of good. 
 
 So how to start the treatment?
-*[x]Note down all your symptoms
-*[]Check the intensity of the emotions in each case
-*[]Try controlling and keeping yourself under control when you get the ovewhelming feeling without tablets
-*[]Follow this for some period of time to check results
-*[]If the symptoms are increasing and getting serious get help from doctors 
+* [x]Note down all your symptoms
+* []Check the intensity of the emotions in each case
+* []Try controlling and keeping yourself under control when you get the ovewhelming feeling without tablets
+* []Follow this for some period of time to check results
+* []If the symptoms are increasing and getting serious get help from doctors 
