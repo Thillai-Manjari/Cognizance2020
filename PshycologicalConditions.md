@@ -37,9 +37,6 @@ If you are having any of these below don’t get angry or upset, these are not d
 |              ![Phobia Statistics](https://www.fearof.net/wp-content/uploads/2019/10/fearof-study-phobias-age-gender-1024x768.png)   |
 |                  |                                                                                                         |
                                                                                                                                                                                                                                                                                                                                           
-|Sleep disorders  |Affect the ability to sleep well on a regular basis. Whether they are caused by a health problem or by too much stress		    |                                                                                                     							
-|                 |Insomnia is inability to fall asleep or to remain asleep, sleep apnea is pauses in breathing during sleep, narcolepsy - suddenly feel extremely tired and fall                            asleep without warning.											     |
-|                 |Symptoms include lack of concentration, weight gain, anxiety, daytime fatigues , etc   | 
             
 
 
